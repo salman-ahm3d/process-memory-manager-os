@@ -1,0 +1,42 @@
+Process ID: 1
+Parent PID: 0
+Size: 8
+Starting Time: 19:00:18:24-04-2024
+Completion Time: 19:00:49:24-04-2024
+Completion Nature: Abnormal
+Process ID: 2
+Parent PID: 0
+Size: 200
+Starting Time: 19:13:36:24-04-2024
+Completion Time: 19:13:40:24-04-2024
+Completion Nature: Abnormal
+Process ID: 1
+Parent PID: 0
+Size: 100
+Starting Time: 22:54:34:24-04-2024
+Completion Time: 22:54:52:24-04-2024
+Completion Nature: Abnormal
+Process ID: 2
+Parent PID: 0
+Size: 200
+Starting Time: 23:02:10:24-04-2024
+Completion Time: 23:03:16:24-04-2024
+Completion Nature: Abnormal
+Process ID: 1
+Parent PID: 0
+Size: 100
+Starting Time: 08:48:45:14-05-2024
+Completion Time: 08:49:03:14-05-2024
+Completion Nature: Abnormal
+Process ID: 1
+Parent PID: 0
+Size: 5
+Starting Time: 17:24:16:14-05-2024
+Completion Time: 17:24:23:14-05-2024
+Completion Nature: Abnormal
+Process ID: 1
+Parent PID: 0
+Size: 8
+Starting Time: 17:28:51:14-05-2024
+Completion Time: 17:30:06:14-05-2024
+Completion Nature: Abnormal
